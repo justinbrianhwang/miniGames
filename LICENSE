@@ -24,9 +24,10 @@ SOFTWARE.
 
 Audio Asset Notice
 
-The audio file `별 헤는 오르골.mp3` is bundled with this repository as the
-background music for the included games. The MIT License above applies to the
-source code only; the audio file is third-party content and its copyright
-remains with the original rights holders. The file is included for personal
-and educational use within this project. If you are the rights holder and
-would like the file removed, please open an issue on this repository.
+The audio file `assets/star_music_box.mp3` (Korean title: 별 헤는 오르골) is
+bundled with this repository as the background music for the included games.
+The MIT License above applies to the source code only; the audio file is
+third-party content and its copyright remains with the original rights holders.
+The file is included for personal and educational use within this project. If
+you are the rights holder and would like the file removed, please open an
+issue on this repository.

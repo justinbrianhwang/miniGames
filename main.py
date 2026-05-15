@@ -13,7 +13,7 @@ from games import (
 
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-MUSIC_FILE = os.path.join(HERE, "별 헤는 오르골.mp3")
+MUSIC_FILE = os.path.join(HERE, "assets", "star_music_box.mp3")
 
 GAMES = [
     ("game.suika.name",       "game.suika.desc",       suika.run),
